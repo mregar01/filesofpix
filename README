@@ -1,0 +1,23 @@
+/**********************************************************
+ * HW1: filesofpix
+ * CS 40 Spring 2023
+ * README
+ * STUDENT 1: Prithviraj Singh Shahani (pshaha01)
+ * STUDENT 2: Max Regardie (mregar01)
+ *********************************************************/
+
+Acknowledgements:
+The TAs in Office Hours were helpful in identifying causes of incorrect output
+in the testing of our code as well as explaining concepts relating to
+probable causes of segfaults and incorrect pointer references.
+
+Neil, Alec, Sruthi, Josh, Eric, Alec, and more were helpful. There may be more
+TAs I don't remember off the top of my head.
+
+Files with correct implementations (2/2):
+- Readaline 
+- Restoration
+
+
+Approximate Hours spent: 48 hours (about 4 hours a day)
+
